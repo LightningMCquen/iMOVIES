@@ -43,6 +43,17 @@ app.get("/api/health", (req, res) => {
   });
 });
 
+// Serve frontend static build if available
+const fs = require("fs");
+const clientBuildPath = path.join(__dirname, "../Client/dist");
+if (fs.existsSync(clientBuildPath)) {
+  app.use(express.static(clientBuildPath));
+  app.get("*", (req, res, next) => {
+    if (req.path.startsWith("/api")) return next();
+    res.sendFile(path.join(clientBuildPath, "index.html"));
+  });
+}
+
 // Centralized error handler
 app.use((err, req, res, next) => {
   console.error("Unhandled error:", err);

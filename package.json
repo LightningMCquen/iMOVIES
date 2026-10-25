@@ -1,0 +1,9 @@
+{
+  "name": "imovies-fullstack",
+  "version": "1.0.0",
+  "description": "iMovies - Full-stack movie ticket booking web application",
+  "scripts": {
+    "build": "npm install --prefix Client && npm run build --prefix Client && npm install --prefix Server",
+    "start": "node Server/server.js"
+  }
+}
