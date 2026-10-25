@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "6adda615f36baa0f546180a2",
+    "username": "Admin",
+    "email": "admin@imovies.com",
+    "password": "$2a$10$liJ4TCFiiOXwxB95sQMyu.YaMeWKG/yYjtE7CBqXVpYh.gaE2UUTy",
+    "role": "admin",
+    "createdAt": "2026-10-25T06:47:49.504Z",
+    "updatedAt": "2026-10-25T06:47:49.504Z"
+  }
+]

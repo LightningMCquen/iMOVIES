@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "6addba663719906a5b20ffb6",
+    "movieId": "6adda61535fb80a186dca1ff",
+    "movieName": "Leo",
+    "userEmail": "gvvdkumar@gmail.com",
+    "userName": "GVVD Kumar",
+    "rating": 10,
+    "comment": "Spectacular movie! Visual masterpiece and unforgettable performance.",
+    "createdAt": "2026-10-25T08:14:30.835Z",
+    "updatedAt": "2026-10-25T08:14:30.835Z"
+  },
+  {
+    "_id": "6addcad1314024d157dea703",
+    "movieId": "6addca92c34c8f45061fb1f0",
+    "movieName": "Leo",
+    "userEmail": "gvvdkumar@gmail.com",
+    "userName": "GVVD Kumar",
+    "rating": 10,
+    "comment": "Spectacular movie! Visual masterpiece and unforgettable performance.",
+    "createdAt": "2026-10-25T09:24:33.677Z",
+    "updatedAt": "2026-10-25T09:24:33.678Z"
+  }
+]

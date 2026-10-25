@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+Client/node_modules/
+Server/node_modules/
+
+# Production build
+Client/dist/
+
+# Environment and secrets
+.env
+Server/.env
+
+# Logs and system files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/

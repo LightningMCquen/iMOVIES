@@ -1,0 +1,127 @@
+[
+  {
+    "_id": "6adda615382d29c56d16ec36",
+    "movieName": "Og",
+    "movieId": "6adda6154009a04f9dcbd761",
+    "theatreName": "Srinivasa",
+    "showdate": "Sep 25, 2025",
+    "showtime": "2:00 PM",
+    "bookedSeats": [],
+    "createdAt": "2026-10-25T06:47:49.551Z",
+    "updatedAt": "2026-10-25T06:47:49.551Z"
+  },
+  {
+    "_id": "6adda6154344b263d6e066b0",
+    "movieName": "Og",
+    "movieId": "6adda6154009a04f9dcbd761",
+    "theatreName": "Srinivasa",
+    "showdate": "Sep 25, 2025",
+    "showtime": "4:00 PM",
+    "bookedSeats": [],
+    "createdAt": "2026-10-25T06:47:49.551Z",
+    "updatedAt": "2026-10-25T06:47:49.551Z"
+  },
+  {
+    "_id": "6adda6151a3142127476d254",
+    "movieName": "Og",
+    "movieId": "6adda6154009a04f9dcbd761",
+    "theatreName": "Srinivasa",
+    "showdate": "Sep 26, 2025",
+    "showtime": "9:00 PM",
+    "bookedSeats": [
+      "162",
+      "261",
+      "262"
+    ],
+    "createdAt": "2026-10-25T06:47:49.551Z",
+    "updatedAt": "2026-10-25T08:43:20.909Z",
+    "lockedSeats": []
+  },
+  {
+    "_id": "6adda615d59654b578b68692",
+    "movieName": "G2",
+    "movieId": "6adda615be9afad92cb9ad85",
+    "theatreName": "Gokul",
+    "showdate": "Nov 14, 2025",
+    "showtime": "2:00 PM",
+    "bookedSeats": [],
+    "createdAt": "2026-10-25T06:47:49.551Z",
+    "updatedAt": "2026-10-25T06:47:49.552Z"
+  },
+  {
+    "_id": "6adda615d648f21e1e0b3151",
+    "movieName": "G2",
+    "movieId": "6adda615be9afad92cb9ad85",
+    "theatreName": "Gokul",
+    "showdate": "Nov 14, 2025",
+    "showtime": "6:00 PM",
+    "bookedSeats": [],
+    "createdAt": "2026-10-25T06:47:49.552Z",
+    "updatedAt": "2026-10-25T06:47:49.552Z"
+  },
+  {
+    "_id": "6adda615da452245ac49b833",
+    "movieName": "The pride of bharat",
+    "movieId": "6adda61559d63a187475c531",
+    "theatreName": "Gokul",
+    "showdate": "Jan 2, 2026",
+    "showtime": "9:30 PM",
+    "bookedSeats": [
+      "198"
+    ],
+    "createdAt": "2026-10-25T06:47:49.552Z",
+    "updatedAt": "2026-10-25T06:47:49.552Z"
+  },
+  {
+    "_id": "6addba6648e4350dd73c9704",
+    "movieName": "Og",
+    "movieId": "6adda6154009a04f9dcbd761",
+    "theatreName": "Prasads Multiplex",
+    "showdate": "Oct 28, 2026",
+    "showtime": "7:00 PM",
+    "adminEmail": "admin@imovies.com",
+    "bookedSeats": [],
+    "lockedSeats": [],
+    "createdAt": "2026-10-25T08:14:30.783Z",
+    "updatedAt": "2026-10-25T08:14:30.783Z"
+  },
+  {
+    "_id": "6addc0ffe1fee0f0f829457e",
+    "movieName": "Toxic",
+    "movieId": "6adda61563abc8c694a6ef88",
+    "theatreName": "Prasads Multiplex",
+    "showdate": "27-10-2006",
+    "showtime": "2:00 PM",
+    "adminEmail": "admin@imovies.com",
+    "bookedSeats": [
+      "248",
+      "249",
+      "250",
+      "247",
+      "246",
+      "251",
+      "245",
+      "264",
+      "252",
+      "271",
+      "268",
+      "267"
+    ],
+    "lockedSeats": [],
+    "createdAt": "2026-10-25T08:42:39.711Z",
+    "updatedAt": "2026-10-25T08:46:11.335Z"
+  },
+  {
+    "_id": "6addcad17e00d62b91806bc6",
+    "movieName": "Og",
+    "movieId": "6addca92c34c8f45061fb1e9",
+    "theatreName": "Prasads Multiplex",
+    "showdate": "Oct 28, 2026",
+    "showtime": "7:00 PM",
+    "adminEmail": "admin@imovies.com",
+    "bookedSeats": [],
+    "lockedSeats": [],
+    "createdAt": "2026-10-25T09:24:33.616Z",
+    "updatedAt": "2026-10-25T09:24:33.616Z"
+  }
+]

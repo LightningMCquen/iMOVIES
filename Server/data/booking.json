@@ -1,0 +1,135 @@
+[
+  {
+    "_id": "6adda615fa6f3494ebb43bc5",
+    "bookingId": "BK912831",
+    "userEmail": "gvvdkumar@gmail.com",
+    "userId": "6adda61516334773822b40a5",
+    "showId": "6adda6151a3142127476d254",
+    "movieName": "Og",
+    "theatreName": "Srinivasa",
+    "showdate": "Sep 26, 2025",
+    "showtime": "21:00",
+    "seatCategory": "Middle",
+    "seats": [
+      "261",
+      "262"
+    ],
+    "totalPrice": 260,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bL32gq0V5T1J2V0w8zYm7sT4x5Q.jpg",
+    "paymentStatus": "Paid",
+    "createdAt": "2026-10-25T06:47:49.559Z",
+    "updatedAt": "2026-10-25T06:47:49.559Z"
+  },
+  {
+    "_id": "6adda6158853154f3637882f",
+    "bookingId": "BK912832",
+    "userEmail": "gvvdkumar@gmail.com",
+    "userId": "6adda61516334773822b40a5",
+    "showId": "6adda6151a3142127476d254",
+    "movieName": "Og",
+    "theatreName": "Srinivasa",
+    "showdate": "Sep 26, 2025",
+    "showtime": "21:00",
+    "seatCategory": "Balcony",
+    "seats": [
+      "162"
+    ],
+    "totalPrice": 175,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bL32gq0V5T1J2V0w8zYm7sT4x5Q.jpg",
+    "paymentStatus": "Paid",
+    "createdAt": "2026-10-25T06:47:49.559Z",
+    "updatedAt": "2026-10-25T06:47:49.559Z"
+  },
+  {
+    "_id": "6adda615ce522614358a55f9",
+    "bookingId": "BK912833",
+    "userEmail": "gvvdkumar@gmail.com",
+    "userId": "6adda61516334773822b40a5",
+    "showId": "6adda615da452245ac49b833",
+    "movieName": "The pride of bharat",
+    "theatreName": "Gokul",
+    "showdate": "Jan 2, 2026",
+    "showtime": "21:30",
+    "seatCategory": "Balcony",
+    "seats": [
+      "198"
+    ],
+    "totalPrice": 200,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/m9k3f5t7s1C2r8x9W7q6y3B4n1K.jpg",
+    "paymentStatus": "Paid",
+    "createdAt": "2026-10-25T06:47:49.560Z",
+    "updatedAt": "2026-10-25T06:47:49.560Z"
+  },
+  {
+    "_id": "6addc16e9f63efe155c47b06",
+    "bookingId": "BK540677",
+    "userEmail": "admin@imovies.com",
+    "userId": "6adda6157106f2380dada878",
+    "showId": "6addc0ffe1fee0f0f829457e",
+    "movieName": "Toxic",
+    "theatreName": "Prasads Multiplex",
+    "showdate": "27-10-2006",
+    "showtime": "2:00 PM",
+    "seats": [
+      "248",
+      "249",
+      "250",
+      "247",
+      "246",
+      "251"
+    ],
+    "seatCategory": "Middle",
+    "totalPrice": 1080,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/q7k6T2m8f1B3d0C9w8y5S6t7R4x.jpg",
+    "paymentStatus": "Paid",
+    "paymentMethod": "UPI / QR (PhonePe / GPay)",
+    "createdAt": "2026-10-25T08:44:30.652Z",
+    "updatedAt": "2026-10-25T08:44:30.652Z"
+  },
+  {
+    "_id": "6addc1d3b26cc4911d2c2587",
+    "bookingId": "BK495766",
+    "userEmail": "gvvdkumar@gmail.com",
+    "userId": "6adda61516334773822b40a5",
+    "showId": "6addc0ffe1fee0f0f829457e",
+    "movieName": "Toxic",
+    "theatreName": "Prasads Multiplex",
+    "showdate": "27-10-2006",
+    "showtime": "2:00 PM",
+    "seats": [
+      "245",
+      "264",
+      "252",
+      "271",
+      "268",
+      "267"
+    ],
+    "seatCategory": "Middle",
+    "totalPrice": 1080,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/q7k6T2m8f1B3d0C9w8y5S6t7R4x.jpg",
+    "paymentStatus": "Paid",
+    "paymentMethod": "UPI / QR (PhonePe / GPay)",
+    "createdAt": "2026-10-25T08:46:11.314Z",
+    "updatedAt": "2026-10-25T08:46:11.314Z"
+  },
+  {
+    "_id": "6addcad124faf27b1e7b2346",
+    "bookingId": "BK977555",
+    "userEmail": "gvvdkumar@gmail.com",
+    "showId": "6addca93c34c8f45061fb1fc",
+    "movieName": "Og",
+    "theatreName": "Srinivasa",
+    "showdate": "Sep 26, 2025",
+    "showtime": "9:00 PM",
+    "seats": [
+      "155"
+    ],
+    "seatCategory": "Balcony",
+    "totalPrice": 175,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bL32gq0V5T1J2V0w8zYm7sT4x5Q.jpg",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Credit Card",
+    "createdAt": "2026-10-25T09:24:33.151Z",
+    "updatedAt": "2026-10-25T09:24:33.152Z"
+  }
+]

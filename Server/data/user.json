@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "6adda6157106f2380dada878",
+    "username": "Admin",
+    "email": "admin@imovies.com",
+    "password": "$2a$10$liJ4TCFiiOXwxB95sQMyu.YaMeWKG/yYjtE7CBqXVpYh.gaE2UUTy",
+    "role": "admin",
+    "createdAt": "2026-10-25T06:47:49.429Z",
+    "updatedAt": "2026-10-25T06:47:49.492Z"
+  },
+  {
+    "_id": "6adda61516334773822b40a5",
+    "username": "GVVD Kumar",
+    "email": "gvvdkumar@gmail.com",
+    "password": "$2a$10$liJ4TCFiiOXwxB95sQMyu.6tYf/oMN9aa6xKviTnxH3ZrB7tMzUye",
+    "role": "user",
+    "createdAt": "2026-10-25T06:47:49.511Z",
+    "updatedAt": "2026-10-25T06:47:49.511Z"
+  },
+  {
+    "_id": "6addc25117502dc850e43224",
+    "username": "Naitik",
+    "email": "naitikduggad@gmail.com",
+    "password": "$2a$10$0L5fWcHxxY2BhJ1JOQybG.2XIzo3l5xTRsy6.Z2LO4lJdrScrNGYq",
+    "role": "user",
+    "createdAt": "2026-10-25T08:48:17.522Z",
+    "updatedAt": "2026-10-25T08:48:17.522Z"
+  }
+]

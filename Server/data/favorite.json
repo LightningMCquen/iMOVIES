@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "6addba6639fc1735cf76fbd3",
+    "userEmail": "gvvdkumar@gmail.com",
+    "movieId": "6adda61535fb80a186dca1ff",
+    "movieName": "Leo",
+    "createdAt": "2026-10-25T08:14:30.810Z",
+    "updatedAt": "2026-10-25T08:14:30.810Z"
+  },
+  {
+    "_id": "6addcad132dfdd0402d66a90",
+    "userEmail": "gvvdkumar@gmail.com",
+    "movieId": "6addca92c34c8f45061fb1f0",
+    "movieName": "Leo",
+    "createdAt": "2026-10-25T09:24:33.663Z",
+    "updatedAt": "2026-10-25T09:24:33.663Z"
+  }
+]

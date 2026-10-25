@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "6adda61582753dd503f0c573",
+    "theatreName": "Srinivasa",
+    "location": "KPHB Main Road, Hyderabad",
+    "balconySeatPrice": 175,
+    "middleSeatPrice": 130,
+    "lowerSeatPrice": 100,
+    "balconySeats": 100,
+    "middleSeats": 120,
+    "lowerSeats": 80,
+    "createdAt": "2026-10-25T06:47:49.538Z",
+    "updatedAt": "2026-10-25T06:47:49.538Z"
+  },
+  {
+    "_id": "6adda615bb4acbe527aff4fc",
+    "theatreName": "Gokul",
+    "location": "Erradgadda Metro Complex, Hyderabad",
+    "balconySeatPrice": 200,
+    "middleSeatPrice": 150,
+    "lowerSeatPrice": 100,
+    "balconySeats": 100,
+    "middleSeats": 120,
+    "lowerSeats": 80,
+    "createdAt": "2026-10-25T06:47:49.538Z",
+    "updatedAt": "2026-10-25T06:47:49.538Z"
+  },
+  {
+    "_id": "6addba6647face4a018a9f14",
+    "theatreName": "Prasads Multiplex",
+    "location": "Necklace Road, Hyderabad",
+    "balconySeatPrice": 250,
+    "middleSeatPrice": 180,
+    "lowerSeatPrice": 120,
+    "balconySeats": 150,
+    "middleSeats": 200,
+    "lowerSeats": 100,
+    "createdAt": "2026-10-25T08:14:30.744Z",
+    "updatedAt": "2026-10-25T08:14:30.744Z"
+  },
+  {
+    "_id": "6addc11565267bd50e22f84a",
+    "theatreName": "PVR",
+    "location": "Surat",
+    "balconySeatPrice": 200,
+    "middleSeatPrice": 130,
+    "lowerSeatPrice": 100,
+    "balconySeats": 100,
+    "middleSeats": 120,
+    "lowerSeats": 80,
+    "createdAt": "2026-10-25T08:43:01.757Z",
+    "updatedAt": "2026-10-25T08:43:01.758Z"
+  },
+  {
+    "_id": "6addcad186ac31462adf9828",
+    "theatreName": "Prasads Multiplex",
+    "location": "Necklace Road, Hyderabad",
+    "balconySeatPrice": 250,
+    "middleSeatPrice": 180,
+    "lowerSeatPrice": 120,
+    "balconySeats": 150,
+    "middleSeats": 200,
+    "lowerSeats": 100,
+    "createdAt": "2026-10-25T09:24:33.563Z",
+    "updatedAt": "2026-10-25T09:24:33.563Z"
+  }
+]
